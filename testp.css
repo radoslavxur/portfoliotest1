@@ -6,7 +6,7 @@
   --accent: #6c63ff;
 }
 body {
-  background-image: url(v1016-b-09.jpg);
+  background-image: url("v1016-b-09.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
